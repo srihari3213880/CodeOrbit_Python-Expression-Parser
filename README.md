@@ -32,5 +32,4 @@ How to Run
 5. Enter an arithmetic expression when prompted.
 
 GitHub Repository
-
-Add your repository link here.
+https://github.com/srihari3213880/Python-Expression-Parser
